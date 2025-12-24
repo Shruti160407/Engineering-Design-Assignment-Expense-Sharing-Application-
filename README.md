@@ -1,4 +1,4 @@
-#Engineering Design Assignment – Expense Sharing Application
+# Engineering Design Assignment – Expense Sharing Application
 
 This is a full-stack Expense Sharing Application similar to Splitwise.
 It allows users to create groups, add expenses, split costs, and view balances.
